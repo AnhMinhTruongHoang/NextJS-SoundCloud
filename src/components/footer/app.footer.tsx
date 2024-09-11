@@ -10,6 +10,7 @@ const AppFooter = () => {
   if (!hasMounted) {
     return <> </>;
   }
+
   return (
     <div>
       <AppBar
